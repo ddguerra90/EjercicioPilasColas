@@ -22,5 +22,5 @@ python libro.py
 Si esta usando un IDLE de Python, solo es necesario que abra el archivo y ejecute "Run Module"
 
 ## Authors
-* **Diego Dayan Guerra Nuñea - 20152020024**
+* **Diego Dayan Guerra Nuñez - 20152020024**
 * **Kevin Alexander Puentes Yaya - 20151020040**
